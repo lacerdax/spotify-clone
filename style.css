@@ -184,16 +184,11 @@ body {
     min-height: 846px;
   }
 
-  #footer {
-    padding: 80px 0;
-    margin: 0 -20rem;
-  }
-
   #footer .footer-content {
     display: flex;
-    width: 60%;
+    width: 100%;
     margin: auto;
-    justify-content: space-between;
+    justify-content: space-around;
   }
 
   #footer .footer-info {
