@@ -2,6 +2,9 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
+### Acesse
+<a href="https://lacerdax.github.io/spotify-clone/" target="_blank">Clique aqui para visualizar o site!</a>
+
 
 ![screencapture-lacerdax-github-io-spotify-clone-2022-08-10-09_27_08](https://user-images.githubusercontent.com/98031390/183901059-96f88e60-b946-4df4-a4f5-9f5707e15717.png)
 
